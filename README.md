@@ -1,1 +1,1 @@
-# 3D-Cube
+# 3D-Cube rotation using PureScript.
